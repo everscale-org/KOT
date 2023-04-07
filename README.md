@@ -4,7 +4,7 @@ KOT – Kitten Overseeing Trends is a symbol of attentiveness and agility in ana
 
 ## Creating a new KOT
 
-1. Before submitting a new KOT to Everscale Organization, it is important to discuss it with the community first. For example one way to do this is by participating in [Everdev Chat](https://t.me/everdev), [Everscale Smart Contracts Chat](https://t.me/EverscaleSmartContracts), [Everscale Dev Ru Chat](https://t.me/everdevru).
+1. Before submitting a new KOT to Everscale Organization, it is important to discuss it with the community first. For example one way to do this is by participating in chats [Everdev](https://t.me/everdev), [Everscale Smart Contracts](https://t.me/EverscaleSmartContracts), [Everdev Ru](https://t.me/everdevru).
 2. Read `KOT-{TODO}` to understand proposal management process.
 
 - ... TODO: ...
